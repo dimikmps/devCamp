@@ -1,10 +1,10 @@
 {
   "name": "devcamp_api",
   "version": "1.0.0",
-  "description": "Developers' bootcamp ",
+  "description": "Developers' bootcamp",
   "main": "server.js",
   "scripts": {
-    "start": "NODE ENV=production node server",
+    "start": "SET NODE_ENV=production & node server",
     "dev": "nodemon server"
   },
   "author": "Dimitris Kampas",
